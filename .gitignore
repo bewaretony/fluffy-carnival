@@ -1,0 +1,10 @@
+*.csproj
+Library
+Temp
+obj
+*.sln
+*.apk
+*.userprefs
+ProjectSettings/GoogleAarExplodeCache.xml
+Assets/Plugins/Editor*
+.idea
